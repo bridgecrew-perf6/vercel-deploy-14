@@ -1,4 +1,7 @@
-
+.manu-container{
+    text-align: center;
+}
 .manu-container a {
     padding-right: 10px;
 }
+
